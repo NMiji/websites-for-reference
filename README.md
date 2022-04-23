@@ -6,6 +6,7 @@ CSS Website Reference:
 
 SQL Website Reference:
 1. http://aspnetsuresh.blogspot.com/2011/03/joins-in-sql-server.html
+2. https://www.sqltutorial.org/sql-cheat-sheet/
 
 
 
