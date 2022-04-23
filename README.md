@@ -8,6 +8,8 @@ SQL Website Reference:
 1. http://aspnetsuresh.blogspot.com/2011/03/joins-in-sql-server.html
 2. https://www.sqltutorial.org/sql-cheat-sheet/
 
+Laravel Reference:
+1. https://blog.codecourse.com/laravel-authentication-ui-vs-jetstream-vs-fortify-vs-breeze/#:~:text=Jetstream%20operates%20very%20differently%20from,register%20or%20delete%20their%20account.
 
 
 Web Hosting Provider (Malaysia):
