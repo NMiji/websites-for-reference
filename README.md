@@ -11,6 +11,9 @@ SQL Website Reference:
 Laravel Reference:
 1. https://blog.codecourse.com/laravel-authentication-ui-vs-jetstream-vs-fortify-vs-breeze/#:~:text=Jetstream%20operates%20very%20differently%20from,register%20or%20delete%20their%20account.
 
+Wordpress Reference:
+1. https://www.wpbeginner.com/wp-tutorials/how-to-create-a-local-wordpress-site-using-xampp/
+
 
 Web Hosting Provider (Malaysia):
 1. https://www.mesrahosting.net/
