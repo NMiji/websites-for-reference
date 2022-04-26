@@ -13,6 +13,7 @@ Laravel Reference:
 
 Wordpress Reference:
 1. https://www.wpbeginner.com/wp-tutorials/how-to-create-a-local-wordpress-site-using-xampp/
+2. https://www.wpbeginner.com/wp-tutorials/how-to-move-wordpress-from-local-server-to-live-site/
 
 
 Web Hosting Provider (Malaysia):
